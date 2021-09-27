@@ -1,5 +1,8 @@
 // Your code goes here:
-
+function renderPerson(name, bdate, ecolor, age, sex) {
+  return name + " is a " + age + " years old " + sex + " born in " + bdate + " with " + ecolor + " eyes" 
+  
+}
 
 
   ///*** Do not edit below this line ****/
